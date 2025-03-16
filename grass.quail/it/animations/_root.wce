@@ -1,0 +1,14 @@
+// wcemu v0.0.1
+// This file was created by quail v1.5.9
+// Original file: grass.wld
+
+INCLUDE "C05_IT.WCE"
+INCLUDE "C10_IT.WCE"
+INCLUDE "D02_IT.WCE"
+INCLUDE "D05_IT.WCE"
+INCLUDE "L01_IT.WCE"
+INCLUDE "L02_IT.WCE"
+INCLUDE "O01_IT.WCE"
+INCLUDE "P01_IT.WCE"
+INCLUDE "P03_IT.WCE"
+INCLUDE "P06_IT.WCE"

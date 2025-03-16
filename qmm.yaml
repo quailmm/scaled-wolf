@@ -1,0 +1,9 @@
+qmm:
+  - name: "Scaled Wolf Classic"
+    id: "scaled-wolf"
+    quail: v1.5.9
+    version: "v1.0.0"
+    image: "qmm.png"
+    url: "https://github.com/quailmm/scaled-wolf"
+    description: |
+      Edits modern scaled wolves to become classic.
